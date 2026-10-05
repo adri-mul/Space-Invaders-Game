@@ -1,4 +1,4 @@
-import sys, pygame, time, keyboard, random
+import sys, pygame, time, random
 
 #initialize pygame
 pygame.init()
